@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "AISaver",
+  "name": "ChatGPT Saver to WebDAV",
   "version": "0.3",
   "permissions": [
     "downloads",
@@ -25,5 +25,10 @@
       "js": ["content.js"]
     }
   ],
-  "options_page": "options.html"
+  "options_page": "options.html",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
 }
