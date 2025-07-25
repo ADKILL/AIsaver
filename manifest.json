@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT Saver to WebDAV",
-  "version": "0.3",
+  "name": "AISaver",
+  "version": "0.3.1",
   "permissions": [
     "downloads",
     "storage",
